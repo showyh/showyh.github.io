@@ -1,7 +1,7 @@
 # Basic
-title: 闲城旧人
-subtitle:择一城终老，遇一人白首。挽一帘幽梦，许一世倾城。写一字决别，言一梦长眠。我倾尽一生，囚你无期。 
-description: 择一人深爱，等一人终老。痴一人情深，留一世繁华。断一根琴弦，歌一曲离别。我背弃一切，共度朝夕。
+title: showy
+subtitle: 闲城旧人
+description: 凡有的，还要加给他叫他多余；没有的，连他所有的也要夺过来。
 # 头像里面的标题
 avatarTitle: 闲城旧人
 # 头像里面的描述
@@ -59,7 +59,9 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于我, description: about, url: '/about'} 
+    - {title: VIP, description: about, url: '/video'}
+    - {title: Love, description: about, url: '/love'}	
     
 
 # Pagination
