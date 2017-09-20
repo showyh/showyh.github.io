@@ -1,4 +1,4 @@
-document.write('<div id="htright" class="float_r align_r"></div>');
+ï»¿document.write('<div id="htright" class="float_r align_r"></div>');
 function show_student_time(){ 
 window.setTimeout("show_student_time()", 1000); 
 BirthDay=new Date("2014/08/09");
@@ -14,6 +14,6 @@ hrsold=Math.floor(e_hrsold);
 e_minsold=(e_hrsold-hrsold)*60; 
 minsold=Math.floor((e_hrsold-hrsold)*60); 
 seconds=Math.floor((e_minsold-minsold)*60); 
-	htright.innerHTML='<font color=#fff>ÎÒ»Ä·ÏµÄĞÄºÍÄãÒ»Æğ×ß¹ı£¬ÎŞÊı¸öÈÕÈÕÒ¹Ò¹£»</br></br><font color="ooffff"> The years we have been spent together : </br></br> '+daysold+'Ìì'+hrsold+'Ê±'+minsold+'·Ö'+seconds+'Ãë </font></br> </br>Love u forever and ever.</br>--by »ÆÊ¤Î°</font></br></br><font size="3" color="ff00ff">&nbsp;&nbsp;&nbsp;&nbsp;2014/08/09</font><DIV style="DISPLAY: none">';
+	htright.innerHTML='<font color=#fff>æˆ‘è’åºŸçš„å¿ƒå’Œä½ ä¸€èµ·èµ°è¿‡ï¼Œæ— æ•°ä¸ªæ—¥æ—¥å¤œå¤œï¼›</br></br><font color="ooffff"> The years we have been spent together : </br></br> '+daysold+'å¤©'+hrsold+'æ—¶'+minsold+'åˆ†'+seconds+'ç§’ </font></br> </br>Love u forever and ever.</br>--by showy</font></br></br><font size="3" color="ff00ff">&nbsp;&nbsp;&nbsp;&nbsp;2014/08/09</font><DIV style="DISPLAY: none">';
 	} 
 show_student_time(); 
