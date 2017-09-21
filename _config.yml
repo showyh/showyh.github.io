@@ -10,7 +10,7 @@ url: "https://showyh.github.io"
 
 # Comment
 comment:
-    disqus: showy
+    disqus: shwy
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -23,13 +23,13 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 99f268e7ca8fb27e2b3be3b059e8bff1  
+    id: 99f268e7ca8fb27e2b3be3b059e8bff1
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: #UA-84134159-3   
-    host: #auto  
+    id: UA-106818472-1
+    host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
